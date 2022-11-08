@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/BlazorApp/bin/Debug/net6.0/BlazorApp.dll",
+            "program": "${workspaceFolder}/src/bin/Debug/net6.0/BlazorApp.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/BlazorApp",
+            "cwd": "${workspaceFolder}/src",
             "stopAtEntry": false,
             "serverReadyAction": {
                 "action": "openExternally",
