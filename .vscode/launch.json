@@ -8,7 +8,7 @@
             "name": ".NET Core Launch (web)",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build",
+            "preLaunchTask": "watch",
             "program": "${workspaceFolder}/src/bin/Debug/net6.0/BlazorApp.dll",
             "args": [],
             "cwd": "${workspaceFolder}/src",
